@@ -1,5 +1,5 @@
 import java.util.*;
-
+//This is a sample code to better understand Git commands
 Class Example{
 Public Static Void main( String args[])
 {
